@@ -2,7 +2,7 @@ import random
 z=random.randint(1,100)
 print("choisir un nombre entre 1 à 100")
 i=5
-j'ai changé la valeur de i
+# j'ai changé la valeur de i
 while i>=0:
       print("essai n",i)
       n=int(input(""))
